@@ -1,7 +1,7 @@
 ---
-title: By Country
-section: Frequency Plans
-zindex: 0
+title: Frequency Plans by Country
+section: Additional Information
+zindex: 2
 --- 
 
 # LoRaWAN Frequency Plans and Regulations by Country.
@@ -22,7 +22,7 @@ For discussions about the frequency plans in different countries, see the posts 
 | Andorra | EU863-870<br />EU433 | CEPT Rec. 70-03 |
 | Angola | EU863-870<br />EU433 | CRASA follows CEPT Rec. 70-03 |
 | Antigua and Barbuda | | |
-| Argentina | US902-928 | |
+| Argentina | AU915-928 | [RESOL-2018-581-APN-MM](https://www.enacom.gob.ar/multimedia/normativas/2018/res581MM.pdf) |
 | Armenia | | EN 302 208  |
 | Australia | AU915-928 | |
 | Austria | EU863-870<br />EU433 | CEPT Rec. 70-03 |
@@ -94,6 +94,7 @@ For discussions about the frequency plans in different countries, see the posts 
 | Equatorial Guinea
 | Eritrea
 | Estonia | EU863-870<br />EU433 | CEPT Rec. 70-03 |
+| Eswatini (formerly Swaziland) | EU863-870<br />EU433 | CRASA follows CEPT Rec. 70-03 |
 | Ethiopia
 
 ### F
@@ -179,7 +180,6 @@ For discussions about the frequency plans in different countries, see the posts 
 
 | Country | Frequency Plan | Regulatory document |
 | --- | --- | --- |
-| Macedonia (FYROM) | EU863-870<br />EU433 | CEPT Rec. 70-03 |
 | Madagascar | EU863-870<br />EU433 | CRASA follows CEPT Rec. 70-03 |
 | Malawi | EU863-870<br />EU433 | CRASA follows CEPT Rec. 70-03 |
 | Malaysia | AS920-923 ("AS1") | |
@@ -211,6 +211,7 @@ For discussions about the frequency plans in different countries, see the posts 
 | Nicaragua
 | Niger
 | Nigeria
+| North Macedonia | EU863-870<br />EU433 | CEPT Rec. 70-03 |
 | North Korea
 | Norway | unknown, limited CEPT | CEPT Rec. 70-03 |
 
@@ -277,8 +278,7 @@ For discussions about the frequency plans in different countries, see the posts 
 | Sri Lanka
 | Sudan
 | Suriname | US902-928 | |
-| Swaziland | EU863-870<br />EU433 | CRASA follows CEPT Rec. 70-03 |
-| Sweden | EU433 (CEPT 868MHz not implemented) | CEPT Rec. 70-03 |
+| Sweden | EU863-870<br />EU433 | [Svenska frekvensplanen](https://etjanster.pts.se/radio/frekvensplanen), CEPT Rec. 70-03 |
 | Switzerland | EU863-870<br />EU433 | CEPT Rec. 70-03 |
 | Syria
 
@@ -339,11 +339,11 @@ _[Country list source](https://www.countries-ofthe-world.com/all-countries.html)
 
 **[CEPT/ERC Recommendation 70-03 relating to the use of short range devices (SRD)](http://www.erodocdb.dk/docs/doc98/official/pdf/rec7003e.pdf)**
 
-Already implemented in: Albania, Andorra, Austria, Belgium, Bosnia & Herzegovina, Bulgaria, Cyprus, Czech Republic, Germany, Denmark, Spain, Estonia, France, Finland, United Kingdom, Hungary, Netherlands, Croatia, Italy, Ireland, Iceland, Liechtenstein, Lithuania, Luxembourg, Latvia, Moldova, Former Yugoslav Republic of Macedonia, Malta, Montenegro, Poland, Portugal, Romania, Sweden(433), Serbia, Switzerland, Slovak Republic, Slovenia, Turkey
+Already implemented in: Albania, Andorra, Austria, Belgium, Bosnia & Herzegovina, Bulgaria, Cyprus, Czech Republic, Germany, Denmark, Spain, Estonia, France, Finland, United Kingdom, Hungary, Netherlands, Croatia, Italy, Ireland, Iceland, Liechtenstein, Lithuania, Luxembourg, Latvia, Moldova, Former Yugoslav Republic of Macedonia, Malta, Montenegro, Poland, Portugal, Romania, Sweden, Serbia, Switzerland, Slovak Republic, Slovenia, Turkey
 
 Limited implementation: Belarus, Georgia(433), Greece, Norway, Russian Federation, Ukrain
 
-Not implemented in: Azerbaijan, Georgia(868), Sweden(868)
+Not implemented in: Azerbaijan, Georgia(868)
 
 ---
 

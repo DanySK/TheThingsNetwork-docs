@@ -1,16 +1,19 @@
 ---
-title: Kerlink LoRa IoT Station
-image: /gateways/kerlink/image.png
+title: Kerlink
+image: /gateways/kerlink/Kerlink_logo.jpg
 section: Hardware
-redirect_from:
- - /draft/kerlink/
- - /kerlink/
 ---
 
-# Kerlink LoRa IoT Station
+# Kerlink
 
-The [Kerlink LoRa IoT Station](http://www.kerlink.fr/en/products) is an industrial solution suitable for people who want to mount the gateway outside and who have sufficient technical skills to connect, mount and maintain the device themselves.
+Find the documentation on how to connect:
+- [Kerlink iStation](istation/)
+- [Kerlink iBTS](ibts/)
+- [Kerlink iFemtoCell](ifemtocell/)
+- [Kerlink iFemtoCell Evolution](ifemtocell-evolution/)
 
-We have tested the device and although we have remarks about the somewhat older software that is being used, this device will do the job. A trained software engineer will be able to update the device using the software from The Things Network.
+Find the documentation on how to install and configure all KerOS gateways: [KerOS installation and configuration](keros/).
 
-![Kerlink LoRa IoT Station](image.png)
+Legacy product: [Kerlink Wirnet Station](station/)
+
+![Kerlink logo](Kerlink_logo.jpg)

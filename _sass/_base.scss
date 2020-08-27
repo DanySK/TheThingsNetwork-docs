@@ -1,13 +1,9 @@
-img {
-  max-width: 100%; // never exceed parent width
-}
-
 body {
   padding-top: 65px;
 }
 
 #content {
-  overflow-x: hidden;
+  //overflow-x: hidden;
   margin-bottom: 30px;
 }
 
@@ -25,6 +21,10 @@ body {
       padding-left: 15px;
       padding-right: 15px;
     }
+  }
+
+  img {
+    max-width: 100%; // never exceed parent width
   }
 }
 
